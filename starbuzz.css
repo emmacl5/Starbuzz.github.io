@@ -17,11 +17,13 @@ margin: 0px;
   margin: 0px 10px 10px 10px;
 }
 #sidebar {
-  background: #efe5d0 url(images/background.jpg) bottom right;
+  background: #efe5d0  bottom right;
   font-size: 105%;
   padding: 15px;
   margin: 0px 10px 10px 10px;
+  float: right;
 }
+
 
 #footer {
   background-color: #675c47;
