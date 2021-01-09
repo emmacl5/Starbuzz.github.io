@@ -64,7 +64,7 @@ a:visited {
 }
 
 div#tableContainer {
-  display: table-cell;
+  display: table;
   margin: 10px;
 }
 div#tableRow {
