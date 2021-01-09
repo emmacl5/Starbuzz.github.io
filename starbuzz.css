@@ -12,7 +12,7 @@ margin: 0px;
 }
 #main {
   display: table-cell;
-  background: #efe5d0 url(images/background.jpg) top left;
+  background: #efe5d0 url(images/fwstudio.jpg) top left;
   font-size: 105%;
   padding: 15px;
   /*margin: 0px 10px 10px 10px;*/
@@ -20,7 +20,7 @@ margin: 0px;
 }
 #sidebar {
   display: table-cell;
-  background-color: #efe5d0 bottom right;
+  background-color: #efe5d0 url(images/fstudio.jpg) bottom right;
   background: #efe5d0  bottom right;
   font-size: 105%;
   padding: 15px;
